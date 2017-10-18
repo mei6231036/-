@@ -1,0 +1,13 @@
+{
+    "name": "seven/high",
+    "description": "dev",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "high\\": "low/"
+        }
+    }
+}
